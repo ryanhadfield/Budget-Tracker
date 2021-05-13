@@ -35,7 +35,7 @@ The budget tracker app allows the user to be able to view and update their budge
 
   The home page will show the user's latest budget details, then the user will have the option to select add a transaction to the tracker by adding a name and transaction about and selecting **Add Funds** or **Subtract Funds**
 
-![budget tracker](public\budgettracker.png)
+![budget tracker](public\budgettracker-screen.png)
 
 - After selecting adding a transaction the chart should reflect the changes to the budget and the total remianing balance should be reflected at the top of the page.
 
